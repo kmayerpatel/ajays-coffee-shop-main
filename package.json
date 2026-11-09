@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "db:seed": "tsx server/db/seed.ts",
+    "db:reset": "tsx server/db/seed.ts --reset"
   },
   "dependencies": {
     "@radix-ui/react-avatar": "^1.1.3",
@@ -48,6 +50,7 @@
     "eslint": "^9",
     "eslint-config-next": "15.2.2",
     "tailwindcss": "^4",
+    "tsx": "^4.20.0",
     "typescript": "^5"
   }
 }

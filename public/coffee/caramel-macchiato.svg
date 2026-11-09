@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 300" width="280" height="300">
+  <rect width="280" height="300" fill="#d9a441"/>
+  <circle cx="230" cy="40" r="90" fill="#e8c06e" opacity="0.55"/>
+  <circle cx="30" cy="290" r="70" fill="#e8c06e" opacity="0.4"/>
+  <ellipse cx="146" cy="170" rx="112" ry="112" fill="#000" opacity="0.12"/>
+  <circle cx="140" cy="160" r="108" fill="#f4efe9"/>
+  <circle cx="140" cy="160" r="92" fill="none" stroke="#e3dbd2" stroke-width="2"/>
+  <rect x="206" y="146" width="44" height="28" rx="14" fill="#ffffff" stroke="#e6dfd7" stroke-width="2"/>
+  <circle cx="143" cy="165" r="80" fill="#000" opacity="0.10"/>
+  <circle cx="140" cy="160" r="78" fill="#ffffff" stroke="#ece6df" stroke-width="2"/>
+  <defs><clipPath id="cup"><circle cx="140" cy="160" r="60"/></clipPath></defs>
+  <circle cx="140" cy="160" r="66" fill="#f3e6d3"/>
+  <circle cx="140" cy="160" r="20" fill="#b07a45" opacity="0.6"/>
+  <g clip-path="url(#cup)">
+  <path d="M88 115 Q140 129 192 115" stroke="#c27a1e" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.95"/>
+  <path d="M88 133 Q140 119 192 133" stroke="#c27a1e" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.95"/>
+  <path d="M88 151 Q140 165 192 151" stroke="#c27a1e" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.95"/>
+  <path d="M88 169 Q140 155 192 169" stroke="#c27a1e" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.95"/>
+  <path d="M88 187 Q140 201 192 187" stroke="#c27a1e" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.95"/>
+  <path d="M88 205 Q140 191 192 205" stroke="#c27a1e" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.95"/>
+  </g>
+</svg>

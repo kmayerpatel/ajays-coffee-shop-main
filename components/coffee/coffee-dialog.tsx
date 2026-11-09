@@ -36,7 +36,7 @@ export default function CoffeeDialog({
   const [isDialogOpen, setIsDialogOpen] = useState(false);
 
   const [type, setType] = useState<string>("hot");
-  const [milk, setMilk] = useState<string>("none");
+  const [milk, setMilk] = useState<string>("whole");
   const [name, setName] = useState<string>("");
 
   const trpc = useTRPC();
@@ -111,7 +111,6 @@ export default function CoffeeDialog({
               <SelectValue placeholder="Select type" />
             </SelectTrigger>
             <SelectContent>
-              <SelectItem value="none">None</SelectItem>
               <SelectItem value="whole">Whole Milk</SelectItem>
               <SelectItem value="reduced">2% Milk</SelectItem>
               <SelectItem value="almond">Almond Milk</SelectItem>

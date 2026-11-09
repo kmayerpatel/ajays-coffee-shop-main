@@ -8,10 +8,12 @@ A small example [Next.js](https://nextjs.org) app that uses [Supabase Realtime](
 ## Getting Started
 
 1. Copy `.env.example` to `.env` and fill in your Supabase values.
-2. Install dependencies and run the development server:
+2. Install dependencies, setup and seed the database, and run the development server:
 
 ```bash
 npm install
+npx drizzle-kit push
+npm run db:seed
 npm run dev
 ```
 

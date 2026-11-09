@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 300" width="280" height="300">
+  <rect width="280" height="300" fill="#a7b8a3"/>
+  <circle cx="230" cy="40" r="90" fill="#c2d0bf" opacity="0.55"/>
+  <circle cx="30" cy="290" r="70" fill="#c2d0bf" opacity="0.4"/>
+  <ellipse cx="146" cy="170" rx="112" ry="112" fill="#000" opacity="0.12"/>
+  <circle cx="140" cy="160" r="108" fill="#f4efe9"/>
+  <circle cx="140" cy="160" r="92" fill="none" stroke="#e3dbd2" stroke-width="2"/>
+  <rect x="206" y="146" width="44" height="28" rx="14" fill="#ffffff" stroke="#e6dfd7" stroke-width="2"/>
+  <circle cx="143" cy="165" r="80" fill="#000" opacity="0.10"/>
+  <circle cx="140" cy="160" r="78" fill="#ffffff" stroke="#ece6df" stroke-width="2"/>
+  <circle cx="140" cy="160" r="66" fill="#9a5a2e"/>
+  <path transform="translate(140 188) scale(1.25)" fill="#fbf6ef" d="M0 18 C-22 2 -26 -14 -14 -20 C-6 -24 0 -18 0 -12 C0 -18 6 -24 14 -20 C26 -14 22 2 0 18 Z"/>
+  <path transform="translate(140 172) scale(1.13)" fill="#fbf6ef" d="M0 18 C-22 2 -26 -14 -14 -20 C-6 -24 0 -18 0 -12 C0 -18 6 -24 14 -20 C26 -14 22 2 0 18 Z"/>
+  <path transform="translate(140 156) scale(1.01)" fill="#fbf6ef" d="M0 18 C-22 2 -26 -14 -14 -20 C-6 -24 0 -18 0 -12 C0 -18 6 -24 14 -20 C26 -14 22 2 0 18 Z"/>
+  <path transform="translate(140 140) scale(0.89)" fill="#fbf6ef" d="M0 18 C-22 2 -26 -14 -14 -20 C-6 -24 0 -18 0 -12 C0 -18 6 -24 14 -20 C26 -14 22 2 0 18 Z"/>
+  <rect x="138.5" y="120" width="3" height="74" fill="#fbf6ef"/>
+</svg>

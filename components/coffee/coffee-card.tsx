@@ -12,7 +12,7 @@ export default function CoffeeCard({ coffee }: { coffee: Coffee }) {
           src={coffee.imageUrl}
           width={280}
           height={300}
-          alt="Pumpkin Spice Latte"
+          alt={coffee.name}
         />
         {coffee.label && (
           <Badge className="absolute top-3 right-3">{coffee.label}</Badge>
